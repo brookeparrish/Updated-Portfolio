@@ -1,0 +1,19 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: gray !important;
+    color: white;
+    text-align: center;
+  }
+
+i {
+    font-size: 40px;
+    margin: 15px;
+    color: white;
+}
+
+.space {
+    padding: 75px;
+}
