@@ -3,7 +3,7 @@
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: gray !important;
+    background-color: #333A56 !important;
     color: white;
     text-align: center;
   }
@@ -16,4 +16,27 @@ i {
 
 .space {
     padding: 75px;
+}
+
+.jumbotron {
+    background: none;
+}
+
+h1 {
+    color: #333A56
+}
+
+.jumbotext {
+    color: #52658F;
+    font-size: 20px;
+}
+
+body {
+    background-color: lightyellow;
+}
+
+.btn {
+    background-color: #52658F;
+    color: #e8e8e8;
+    border:0px solid transparent;
 }
