@@ -32,11 +32,24 @@ h1 {
 }
 
 body {
-    background-color: lightyellow;
+    background-color: #F7F5E6;
 }
 
 .btn {
     background-color: #52658F;
-    color: #e8e8e8;
+    color:white;
     border:0px solid transparent;
 }
+
+.card {
+    background-color: #e8e8e8;
+}
+
+/*@media screen and (max-width: 576px) {
+.mediaq {
+    float: none !important;
+    display: 100% !important;
+    display: block !important;
+    
+    }   
+}*/
