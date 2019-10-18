@@ -23,12 +23,14 @@ i {
 }
 
 h1 {
-    color: #333A56
+    color: #333A56;
+    font-family: 'Dancing Script', cursive;
 }
 
 .jumbotext {
     color: #52658F;
-    font-size: 20px;
+    font-size: 35px;
+    font-family: 'News Cycle', sans-serif;
 }
 
 body {
@@ -43,6 +45,10 @@ body {
 
 .card {
     background-color: #e8e8e8;
+}
+
+hr {
+    border-color: black !important;
 }
 
 /*@media screen and (max-width: 576px) {
