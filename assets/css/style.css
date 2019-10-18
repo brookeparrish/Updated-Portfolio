@@ -43,13 +43,11 @@ body {
     border:0px solid transparent;
 }
 
-.card {
-    background-color: #e8e8e8;
-}
 
 hr {
     border-color: black !important;
 }
+
 
 /*@media screen and (max-width: 576px) {
 .mediaq {
